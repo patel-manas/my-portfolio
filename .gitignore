@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Firebase service account key
+# (ensure you store this file securely outside of your project directory)
+serviceAccountKey.json
+
+# Firebase hosting cache
+.firebase/
+
